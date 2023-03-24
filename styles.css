@@ -1,2 +1,44 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+#button-1 {
+      background-color: #17a2b8;
+      border-color: #17a2b8;
+    }
+    
+    #button-2 {
+      background-color: #6c757d;
+      border-color: #6c757d;
+    }
+    
+    #button-3 {
+      background-color: #28a745;
+      border-color: #28a745;
+    }
+    
+    #button-4 {
+      background-color: #dc3545;
+      border-color: #dc3545;
+    }
+    
+    #button-5 {
+      background-color: #ffc107;
+      border-color: #ffc107;
+    }
+    
+    #button-6 {
+      background-color: #17a2b8;
+      border-color: #17a2b8;
+      color: #fff;
+    }
+    
+    #button-7 {
+      background-color: #f8f9fa;
+      border-color: #f8f9fa;
+    }
+    
+    #button-8 {
+      
+      color: #fff;
+    }
